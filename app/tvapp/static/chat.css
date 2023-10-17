@@ -1,0 +1,11 @@
+/* chat.css */
+#chat {
+    width: 300px;
+    height: 400px;
+    border: 1px solid #ccc;
+    overflow: scroll;
+}
+
+#input {
+    width: 300px;
+}
